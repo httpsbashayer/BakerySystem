@@ -1,0 +1,1 @@
+Bakery's name: Diplomat Number of sweets: 2         Total price of sweets: 12.0 SR
